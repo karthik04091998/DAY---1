@@ -1,0 +1,21 @@
+Objects :
+       
+       In javascript , almost everything is an object. 
+       Objects are variables too. But objects can contain many values.
+       Object values are written as name : value pairs (name and value separated by a colon)
+
+
+
+	let person = {firstName:"karthik",
+	              lastName:"P",
+	              age:25, 
+	              eyeColor:"brown"};
+	              
+	const favNumbers = [7,14,18];
+
+
+
+    Here firstName , lastName, age and eyeColor are object keys and karthik , P , 25 and brown are object values.
+
+    And then ,Arrays are created with three different numbers 
+    Here 7,14 and 18 are in the index of elemnet 0,1, and 2 respectively.
